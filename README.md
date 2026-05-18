@@ -54,7 +54,7 @@ Please use GitHub issue labels:
 Security vulnerabilities must not be reported publicly.  
 
 They should be disclosed privately via responsible disclosure by contacting:  
-support.lotus.info@gmail.com
+support@lotusinfo.tn
 
 ---
 
